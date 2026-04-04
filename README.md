@@ -4,7 +4,6 @@ A sleek, high-performance personal portfolio website featuring a modern **Glassm
 
 ## ✨ Key Features
 
-  * **Dynamic UI/UX**: Built with a "Syne" and "DM Sans" typography pairing for a bold, professional look.
   * **Theme Toggle**: Seamless switching between **Dark Mode** and **Light Mode**.
   * **Interactive Typing Effect**: Engaging hero section displaying roles like Full Stack Developer and MERN Engineer.
   * **Glassmorphism Design**: Use of backdrop filters, subtle grain textures, and neon glow effects for a premium feel.
