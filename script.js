@@ -9,11 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================
     const typingText = document.getElementById('typingText');
     const titles = [
-        'Frontend Developer',
-        'MERN Stack Enthusiast',
-        'React.js Developer',
-        'Problem Solver',
-        'UI/UX Builder'
+        'AI Engineer & SDE',
+        'Full Stack Developer',
+        'MERN Stack Specialist',
+        'Problem Solver'
     ];
     let titleIndex = 0;
     let charIndex = 0;
